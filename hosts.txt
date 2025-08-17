@@ -1,0 +1,4 @@
+# one host per line
+www.google.com
+expired.badssl.com
+self-signed.badssl.com
